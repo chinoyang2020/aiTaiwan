@@ -1,0 +1,9 @@
+完整網站 GitHub 上傳版 2026-10-09
+
+首頁保留原 6 個展廳，新增第 7 個可重用十字形模板。
+第 7 個展廳：exhibits/cross-template/gallery.html?project=projects/cross-demo/gallery.json
+模板工作台：exhibits/cross-template/workbench.html
+
+圖片在 assets，環景在 360view。模板資料位於 exhibits/cross-template。
+此包已包含 La Galerie 缺圖補充與十字形天空修正。
+請完整合併所有分包後，再使用桌機預覽或上傳。
